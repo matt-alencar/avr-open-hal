@@ -1,0 +1,13 @@
+{
+    "name": "avr-open-hal",
+    "version": "1.0.0",
+    "description": "A robust open source Hardware Abstraction Layer (HAL) for AVR microcontrollers",
+    "license": "MIT",
+    "platforms": "atmelavr",
+    "keywords" : "hal, avr,",
+    "authors": {
+        "name": "Matheus Alencar Nascimento",
+        "email": "teu.nasc@gmail.com",
+        "url": "https://github.com/matt-alencar/avr-open-hal"
+    }
+}
